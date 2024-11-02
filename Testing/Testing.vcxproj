@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RPSTESTS.h" />
+    <ClCompile Include="determine_winner.c" />
+    <ClCompile Include="RPSTESTS.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="rsp.h" />

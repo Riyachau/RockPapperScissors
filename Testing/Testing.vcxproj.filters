@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RPSTESTS.h">
+    <ClCompile Include="RPSTESTS.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="determine_winner.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
